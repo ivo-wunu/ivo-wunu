@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**ivo-wunu/ivo-wunu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#  Ivo Wunu
+``
+Web Developer
+``
 
-Here are some ideas to get you started:
+ Eu sou Ivo Wunu, **Desenvolvedor web** e estudante de **Ciências da Computação**, apaixonado por transformar linhas de código em experiências digitais incríveis.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sempre buscando aprender e aprimorar minhas habilidades, tenho desenvolvido meus projectos com technologias como **LARAVEL & PHP**   
+
+*Vamos juntos explorar as infinitas possibilidades do mundo digital! 🚀*
+
+
+ <div align="center">
+  <a href="https://github.com/ivo-wunu">
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=ivo-wunu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivo-wunu&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
